@@ -10,4 +10,6 @@
 
 13/09/2022 -
 
-1)array operations
+1) Array operations
+2) Linear Search
+3) Binary Search

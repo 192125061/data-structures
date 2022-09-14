@@ -13,3 +13,4 @@
 1) Array operations
 2) Linear Search
 3) Binary Search
+4) Stack Operations

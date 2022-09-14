@@ -14,3 +14,7 @@
 2) Linear Search
 3) Binary Search
 4) Stack Operations
+
+14/09/2022 -
+1) Insertion Sort
+2) 

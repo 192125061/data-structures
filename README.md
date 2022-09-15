@@ -20,3 +20,8 @@
 2) Linked List In C
 3) Tree Traversals in C
 4) Queue Operations
+
+15/06/2022 -
+1) Heap Sort
+2) Quick Sort
+3) Merge Sort
